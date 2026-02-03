@@ -1,0 +1,14 @@
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\bin\Debug\net10.0\BookStoreSysytem.exe
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\bin\Debug\net10.0\BookStoreSysytem.deps.json
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\bin\Debug\net10.0\BookStoreSysytem.runtimeconfig.json
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\bin\Debug\net10.0\BookStoreSysytem.dll
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\bin\Debug\net10.0\BookStoreSysytem.pdb
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.dll
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\refint\BookStoreSysytem.dll
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.pdb
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\BookStoreSysytem.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\BookStoreSysytem\BookStoreSysytem\obj\Debug\net10.0\ref\BookStoreSysytem.dll
